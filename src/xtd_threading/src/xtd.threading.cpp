@@ -1,3 +1,4 @@
-#include "../include/xtd/event_args.hpp"
+#include "../include/xtd/xtd.threading"
 
-const xtd::event_args xtd::event_args::empty;
+void __xtd_threading_unused_method__() {
+}
